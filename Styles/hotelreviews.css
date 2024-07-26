@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.contaniner{
+    width: 100%;
+    height: 1000px;
+}
+.img{
+    display: flex;
+    column-gap: 10px;
+}
+.s1{
+    margin-left: 50px;
+}
+.header h1{
+   padding-left: 100px;
+   padding-top: 20px;
+}
+.header p{
+    padding-left: 100px;
+}
+.text p{
+margin-left: 100px;
+margin-top: 20px;
+font-family: sans-serif;
+font-weight: 500;
+}
+.text p b{
+    font-size: 20px;
+}
+.review h1{
+   text-align: center;
+   color: pink;
+}
+.review p{
+font-size: 25px;
+}
+.review h2{
+    color: blue;
+    padding-top: 30px;
+}
+.review1 h2{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    padding-top: 10px;
+}
+
+.review1{
+    width: 100%;
+    height: 300px;
+    background-color:aliceblue;
+}
+.review1 h3{
+    padding-top: 50px;
+    font-size: 30px;
+}
+.review1 p{
+    font-size: 15px;
+}
+
+.review2{
+    width: 100%;
+    height: 250px;
+    background-color:rgb(187, 200, 206);
+}
+
+
+.review2 h2{
+    padding-top: 50px;
+    font-size: 30px;
+
+}
+.review2 p{
+    font-size: 15px;
+}
